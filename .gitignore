@@ -25,3 +25,7 @@ data/*.sqlite3
 .vscode/
 .DS_Store
 Thumbs.db
+
+# A/B test processed datasets
+data/processed/*.csv
+data/processed/*.parquet
