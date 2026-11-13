@@ -1,4 +1,4 @@
-# A/B Test and Experiment Analysis — Landing Page Redesign
+# A/B Test and Experiment Analysis 
 
 **Python | SQL | A/B Testing | Statistical Hypothesis Testing | Product Analytics**
 
